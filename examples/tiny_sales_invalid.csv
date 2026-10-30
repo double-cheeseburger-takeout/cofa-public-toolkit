@@ -1,0 +1,5 @@
+transaction_id,date,product,amount
+DEMO001,2026-01-01,"Demo, A",100
+DEMO001,2026-01-01,"Demo, A",100
+DEMO002,not-a-date,Demo B,
+DEMO003,2026-01-03,Missing amount field

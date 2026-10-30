@@ -1,0 +1,4 @@
+interface:
+  display_name: "변경 검토"
+  short_description: "Review requirements, code, and remaining quality risks."
+  default_prompt: "Use $review-changes to help with the current task using its actual files and rules."

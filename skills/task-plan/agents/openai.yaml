@@ -1,0 +1,4 @@
+interface:
+  display_name: "과제 계획"
+  short_description: "Define requirements, scope, and acceptance checks."
+  default_prompt: "Use $task-plan to help with the current task using its actual files and rules."

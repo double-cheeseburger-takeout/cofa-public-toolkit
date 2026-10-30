@@ -1,0 +1,4 @@
+interface:
+  display_name: "제출 준비"
+  short_description: "Check required deliverables and actual execution evidence."
+  default_prompt: "Use $prepare-submission to help with the current task using its actual files and rules."

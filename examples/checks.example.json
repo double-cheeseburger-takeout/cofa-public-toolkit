@@ -1,0 +1,10 @@
+{
+  "description": "도구 자체의 단위 테스트입니다. 대회 결과물의 검증이 아닙니다. --project에는 이 저장소 루트를 지정합니다.",
+  "checks": [
+    {
+      "name": "toolkit_self_tests_only",
+      "argv": ["{python}", "-m", "unittest", "discover", "-s", "tests", "-v"],
+      "timeout_seconds": 60
+    }
+  ]
+}

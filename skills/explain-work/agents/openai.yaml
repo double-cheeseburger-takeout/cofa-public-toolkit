@@ -1,0 +1,4 @@
+interface:
+  display_name: "구현 설명 연습"
+  short_description: "Practice explaining actual implementation and tradeoffs."
+  default_prompt: "Use $explain-work to help with the current task using its actual files and rules."

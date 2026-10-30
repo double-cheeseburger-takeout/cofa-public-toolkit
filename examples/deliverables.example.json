@@ -1,0 +1,7 @@
+{
+  "description": "사용법 확인용 합성 자료 목록입니다. 실제 과제의 제출 목록으로 바꿔야 합니다.",
+  "required": [
+    {"path": "examples/tiny_sales.csv", "kind": "file", "nonempty": true},
+    {"path": "scripts", "kind": "directory", "nonempty": true}
+  ]
+}

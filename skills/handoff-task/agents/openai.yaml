@@ -1,0 +1,4 @@
+interface:
+  display_name: "작업 인수인계"
+  short_description: "Preserve decisions, evidence, and next steps for handoff."
+  default_prompt: "Use $handoff-task to help with the current task using its actual files and rules."

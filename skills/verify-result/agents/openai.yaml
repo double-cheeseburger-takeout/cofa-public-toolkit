@@ -1,0 +1,4 @@
+interface:
+  display_name: "결과 검증"
+  short_description: "Verify real behavior with independent expected results."
+  default_prompt: "Use $verify-result to help with the current task using its actual files and rules."
